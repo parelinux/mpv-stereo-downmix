@@ -1,4 +1,6 @@
 # MPV Stereo Downmix
+Vibe coded by Claude. For personal use.
+
 This is a .lua script for MPV that downmixes surround sound to old school stereo with a customizable mix, utilising MPV's implementation of FFmpeg's lavfi filtering library.
 
 Suitable for typical stereo setups with 2 loudspeakers or headphones.
